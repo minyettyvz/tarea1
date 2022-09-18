@@ -1,0 +1,98 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+.contenedor{
+    border: solid 1px black;
+    width: 800px;
+    margin: 0 auto;
+    background-color:beige;
+    border-radius: 30px;
+}
+
+.header{
+    display: flex;
+    padding: 10px;
+   
+    
+}
+.name{
+   padding-left:30px;
+   font-size: 40px;
+   line-height: 190px;
+   text-decoration: underline;
+   
+}
+
+.hr{
+    width: 80%; 
+    border-color: #000;
+    border-right: 1px;
+}
+
+/*************************************************/
+
+.inf-tittle{
+    text-align: center;
+    font-size: 22px;
+}
+
+
+.info-per{
+    padding: 10px;
+    
+}
+
+.inf1{
+    font-size: 20px;
+    
+}
+
+.inf2{
+    font-size: 17px;
+    font-weight: normal;
+    
+}
+
+/*************************************************/
+
+.redes2{
+    text-align: center;
+    
+    
+}
+
+.redes a:hover{
+    padding-right: 10px;
+    
+}
+
+.redes2 img{
+   width: 40px;
+   padding: 10px;
+   
+    
+}
+
+.img{
+    border-radius: 60px;
+}
+
+.video{
+    margin-left: 20px ;
+}
+
+.hr2{
+ border-left:  3px solid #000;
+ height:45px;
+ left: 50%;
+ position: absolute
+}
+
+.footer{
+    text-align: center;
+    font-size: 12px;
+    color: red;
+}
